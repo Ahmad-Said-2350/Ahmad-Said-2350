@@ -33,9 +33,9 @@
 
 ---
 
-I'm Ahmad Said,a Front-End Engineer focused on building scalable, logic-driven applications with React and Next.js. I don't just write code; I architect systems that prioritize long-term stability and performance.
+I'm Ahmad Said. a Front-End Engineer focused on building scalable, logic-driven applications with React and Next.js. I don't just write code; I architect systems that prioritize long-term stability and performance.
 
-I leverage Agentic AI to accelerate the development lifecycle while providing the critical human oversight needed to prevent architectural hallucinations and security risks. My approach ensures that every output meets professional standards for accessibility, SEO, and technical accuracy.
+I leverage Agentic AI to accelerate the development lifecycle while providing the critical human oversight needed to prevent architectural hallucinations and security risks. My approach ensures that every output meets professional standards for accessibility, SEO and technical accuracy.
 
 I bridge the gap between AI efficiency and engineering rigor to deliver robust, future-proof digital solutions.
 # Tech Stack
